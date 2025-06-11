@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency('grpc', '~> 1.66')
   spec.add_dependency('opentelemetry-exporter-otlp', '~> 0.28.1')
-  spec.add_dependency('opentelemetry-instrumentation-all', '~> 0.62.1')
+  spec.add_dependency('opentelemetry-instrumentation-all', '~> 0.77.0')
   spec.add_dependency('opentelemetry-sdk', '~> 1.5.0')
   spec.add_dependency('opentelemetry-semantic_conventions', '~> 1.10.1')
   spec.metadata['rubygems_mfa_required'] = 'true'
